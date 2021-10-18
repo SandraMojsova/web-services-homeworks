@@ -1,0 +1,974 @@
+[
+    {
+        "country": "Afghanistan",
+        "expectancy": "45.90"
+    },
+    {
+        "country": "Albania",
+        "expectancy": "71.60"
+    },
+    {
+        "country": "Algeria",
+        "expectancy": "69.70"
+    },
+    {
+        "country": "American Samoa",
+        "expectancy": "75.10"
+    },
+    {
+        "country": "Andorra",
+        "expectancy": "83.50"
+    },
+    {
+        "country": "Angola",
+        "expectancy": "38.30"
+    },
+    {
+        "country": "Anguilla",
+        "expectancy": "76.10"
+    },
+    {
+        "country": "Antarctica",
+        "expectancy": null
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "expectancy": "70.50"
+    },
+    {
+        "country": "Argentina",
+        "expectancy": "75.10"
+    },
+    {
+        "country": "Armenia",
+        "expectancy": "66.40"
+    },
+    {
+        "country": "Aruba",
+        "expectancy": "78.40"
+    },
+    {
+        "country": "Australia",
+        "expectancy": "79.80"
+    },
+    {
+        "country": "Austria",
+        "expectancy": "77.70"
+    },
+    {
+        "country": "Azerbaijan",
+        "expectancy": "62.90"
+    },
+    {
+        "country": "Bahamas",
+        "expectancy": "71.10"
+    },
+    {
+        "country": "Bahrain",
+        "expectancy": "730"
+    },
+    {
+        "country": "Bangladesh",
+        "expectancy": "60.20"
+    },
+    {
+        "country": "Barbados",
+        "expectancy": "730"
+    },
+    {
+        "country": "Belarus",
+        "expectancy": "680"
+    },
+    {
+        "country": "Belgium",
+        "expectancy": "77.80"
+    },
+    {
+        "country": "Belize",
+        "expectancy": "70.90"
+    },
+    {
+        "country": "Benin",
+        "expectancy": "50.20"
+    },
+    {
+        "country": "Bermuda",
+        "expectancy": "76.90"
+    },
+    {
+        "country": "Bhutan",
+        "expectancy": "52.40"
+    },
+    {
+        "country": "Bolivia",
+        "expectancy": "63.70"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "expectancy": "71.50"
+    },
+    {
+        "country": "Botswana",
+        "expectancy": "39.30"
+    },
+    {
+        "country": "Bouvet Island",
+        "expectancy": null
+    },
+    {
+        "country": "Brazil",
+        "expectancy": "62.90"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "expectancy": null
+    },
+    {
+        "country": "Brunei",
+        "expectancy": "73.60"
+    },
+    {
+        "country": "Bulgaria",
+        "expectancy": "70.90"
+    },
+    {
+        "country": "Burkina Faso",
+        "expectancy": "46.70"
+    },
+    {
+        "country": "Burundi",
+        "expectancy": "46.20"
+    },
+    {
+        "country": "Cambodia",
+        "expectancy": "56.50"
+    },
+    {
+        "country": "Cameroon",
+        "expectancy": "54.80"
+    },
+    {
+        "country": "Canada",
+        "expectancy": "79.40"
+    },
+    {
+        "country": "Cape Verde",
+        "expectancy": "68.90"
+    },
+    {
+        "country": "Cayman Islands",
+        "expectancy": "78.90"
+    },
+    {
+        "country": "Central African Republic",
+        "expectancy": "440"
+    },
+    {
+        "country": "Chad",
+        "expectancy": "50.50"
+    },
+    {
+        "country": "Chile",
+        "expectancy": "75.70"
+    },
+    {
+        "country": "China",
+        "expectancy": "71.40"
+    },
+    {
+        "country": "Christmas Island",
+        "expectancy": null
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "expectancy": null
+    },
+    {
+        "country": "Colombia",
+        "expectancy": "70.30"
+    },
+    {
+        "country": "Comoros",
+        "expectancy": "600"
+    },
+    {
+        "country": "Congo",
+        "expectancy": "47.40"
+    },
+    {
+        "country": "Cook Islands",
+        "expectancy": "71.10"
+    },
+    {
+        "country": "Costa Rica",
+        "expectancy": "75.80"
+    },
+    {
+        "country": "Croatia",
+        "expectancy": "73.70"
+    },
+    {
+        "country": "Cuba",
+        "expectancy": "76.20"
+    },
+    {
+        "country": "Cyprus",
+        "expectancy": "76.70"
+    },
+    {
+        "country": "Czech Republic",
+        "expectancy": "74.50"
+    },
+    {
+        "country": "Denmark",
+        "expectancy": "76.50"
+    },
+    {
+        "country": "Djibouti",
+        "expectancy": "50.80"
+    },
+    {
+        "country": "Dominica",
+        "expectancy": "73.40"
+    },
+    {
+        "country": "Dominican Republic",
+        "expectancy": "73.20"
+    },
+    {
+        "country": "East Timor",
+        "expectancy": "460"
+    },
+    {
+        "country": "Ecuador",
+        "expectancy": "71.10"
+    },
+    {
+        "country": "Egypt",
+        "expectancy": "63.30"
+    },
+    {
+        "country": "El Salvador",
+        "expectancy": "69.70"
+    },
+    {
+        "country": "England",
+        "expectancy": null
+    },
+    {
+        "country": "Equatorial Guinea",
+        "expectancy": "53.60"
+    },
+    {
+        "country": "Eritrea",
+        "expectancy": "55.80"
+    },
+    {
+        "country": "Estonia",
+        "expectancy": "69.50"
+    },
+    {
+        "country": "Ethiopia",
+        "expectancy": "45.20"
+    },
+    {
+        "country": "Falkland Islands",
+        "expectancy": null
+    },
+    {
+        "country": "Faroe Islands",
+        "expectancy": "78.40"
+    },
+    {
+        "country": "Fiji Islands",
+        "expectancy": "67.90"
+    },
+    {
+        "country": "Finland",
+        "expectancy": "77.40"
+    },
+    {
+        "country": "France",
+        "expectancy": "78.80"
+    },
+    {
+        "country": "French Guiana",
+        "expectancy": "76.10"
+    },
+    {
+        "country": "French Polynesia",
+        "expectancy": "74.80"
+    },
+    {
+        "country": "French Southern territories",
+        "expectancy": null
+    },
+    {
+        "country": "Gabon",
+        "expectancy": "50.10"
+    },
+    {
+        "country": "Gambia",
+        "expectancy": "53.20"
+    },
+    {
+        "country": "Georgia",
+        "expectancy": "64.50"
+    },
+    {
+        "country": "Germany",
+        "expectancy": "77.40"
+    },
+    {
+        "country": "Ghana",
+        "expectancy": "57.40"
+    },
+    {
+        "country": "Gibraltar",
+        "expectancy": "790"
+    },
+    {
+        "country": "Greece",
+        "expectancy": "78.40"
+    },
+    {
+        "country": "Greenland",
+        "expectancy": "68.10"
+    },
+    {
+        "country": "Grenada",
+        "expectancy": "64.50"
+    },
+    {
+        "country": "Guadeloupe",
+        "expectancy": "770"
+    },
+    {
+        "country": "Guam",
+        "expectancy": "77.80"
+    },
+    {
+        "country": "Guatemala",
+        "expectancy": "66.20"
+    },
+    {
+        "country": "Guinea",
+        "expectancy": "45.60"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "expectancy": "490"
+    },
+    {
+        "country": "Guyana",
+        "expectancy": "640"
+    },
+    {
+        "country": "Haiti",
+        "expectancy": "49.20"
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "expectancy": null
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "expectancy": null
+    },
+    {
+        "country": "Honduras",
+        "expectancy": "69.90"
+    },
+    {
+        "country": "Hong Kong",
+        "expectancy": "79.50"
+    },
+    {
+        "country": "Hungary",
+        "expectancy": "71.40"
+    },
+    {
+        "country": "Iceland",
+        "expectancy": "79.40"
+    },
+    {
+        "country": "India",
+        "expectancy": "62.50"
+    },
+    {
+        "country": "Indonesia",
+        "expectancy": "70.10"
+    },
+    {
+        "country": "Iran",
+        "expectancy": "69.70"
+    },
+    {
+        "country": "Iraq",
+        "expectancy": "66.50"
+    },
+    {
+        "country": "Ireland",
+        "expectancy": "76.80"
+    },
+    {
+        "country": "Israel",
+        "expectancy": "78.60"
+    },
+    {
+        "country": "Italy",
+        "expectancy": "790"
+    },
+    {
+        "country": "Ivory Coast",
+        "expectancy": "45.20"
+    },
+    {
+        "country": "Jamaica",
+        "expectancy": "75.20"
+    },
+    {
+        "country": "Japan",
+        "expectancy": "80.70"
+    },
+    {
+        "country": "Jordan",
+        "expectancy": "77.40"
+    },
+    {
+        "country": "Kazakhstan",
+        "expectancy": "63.20"
+    },
+    {
+        "country": "Kenya",
+        "expectancy": "480"
+    },
+    {
+        "country": "Kiribati",
+        "expectancy": "59.80"
+    },
+    {
+        "country": "Kuwait",
+        "expectancy": "76.10"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "expectancy": "63.40"
+    },
+    {
+        "country": "Laos",
+        "expectancy": "53.10"
+    },
+    {
+        "country": "Latvia",
+        "expectancy": "68.40"
+    },
+    {
+        "country": "Lebanon",
+        "expectancy": "71.30"
+    },
+    {
+        "country": "Lesotho",
+        "expectancy": "50.80"
+    },
+    {
+        "country": "Liberia",
+        "expectancy": "510"
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "expectancy": "75.50"
+    },
+    {
+        "country": "Liechtenstein",
+        "expectancy": "78.80"
+    },
+    {
+        "country": "Lithuania",
+        "expectancy": "69.10"
+    },
+    {
+        "country": "Luxembourg",
+        "expectancy": "77.10"
+    },
+    {
+        "country": "Macao",
+        "expectancy": "81.60"
+    },
+    {
+        "country": "North Macedonia",
+        "expectancy": "73.80"
+    },
+    {
+        "country": "Madagascar",
+        "expectancy": "550"
+    },
+    {
+        "country": "Malawi",
+        "expectancy": "37.60"
+    },
+    {
+        "country": "Malaysia",
+        "expectancy": "70.80"
+    },
+    {
+        "country": "Maldives",
+        "expectancy": "62.20"
+    },
+    {
+        "country": "Mali",
+        "expectancy": "46.70"
+    },
+    {
+        "country": "Malta",
+        "expectancy": "77.90"
+    },
+    {
+        "country": "Marshall Islands",
+        "expectancy": "65.50"
+    },
+    {
+        "country": "Martinique",
+        "expectancy": "78.30"
+    },
+    {
+        "country": "Mauritania",
+        "expectancy": "50.80"
+    },
+    {
+        "country": "Mauritius",
+        "expectancy": "710"
+    },
+    {
+        "country": "Mayotte",
+        "expectancy": "59.50"
+    },
+    {
+        "country": "Mexico",
+        "expectancy": "71.50"
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "expectancy": null
+    },
+    {
+        "country": "Moldova",
+        "expectancy": "64.50"
+    },
+    {
+        "country": "Monaco",
+        "expectancy": "78.80"
+    },
+    {
+        "country": "Mongolia",
+        "expectancy": "67.30"
+    },
+    {
+        "country": "Montserrat",
+        "expectancy": "780"
+    },
+    {
+        "country": "Morocco",
+        "expectancy": "69.10"
+    },
+    {
+        "country": "Mozambique",
+        "expectancy": "37.50"
+    },
+    {
+        "country": "Myanmar",
+        "expectancy": "54.90"
+    },
+    {
+        "country": "Namibia",
+        "expectancy": "42.50"
+    },
+    {
+        "country": "Nauru",
+        "expectancy": "60.80"
+    },
+    {
+        "country": "Nepal",
+        "expectancy": "57.80"
+    },
+    {
+        "country": "Netherlands",
+        "expectancy": "78.30"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "expectancy": "74.70"
+    },
+    {
+        "country": "New Caledonia",
+        "expectancy": "72.80"
+    },
+    {
+        "country": "New Zealand",
+        "expectancy": "77.80"
+    },
+    {
+        "country": "Nicaragua",
+        "expectancy": "68.70"
+    },
+    {
+        "country": "Niger",
+        "expectancy": "41.30"
+    },
+    {
+        "country": "Nigeria",
+        "expectancy": "51.60"
+    },
+    {
+        "country": "Niue",
+        "expectancy": null
+    },
+    {
+        "country": "Norfolk Island",
+        "expectancy": null
+    },
+    {
+        "country": "North Korea",
+        "expectancy": "70.70"
+    },
+    {
+        "country": "Northern Ireland",
+        "expectancy": null
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "expectancy": "75.50"
+    },
+    {
+        "country": "Norway",
+        "expectancy": "78.70"
+    },
+    {
+        "country": "Oman",
+        "expectancy": "71.80"
+    },
+    {
+        "country": "Pakistan",
+        "expectancy": "61.10"
+    },
+    {
+        "country": "Palau",
+        "expectancy": "68.60"
+    },
+    {
+        "country": "Palestine",
+        "expectancy": "71.40"
+    },
+    {
+        "country": "Panama",
+        "expectancy": "75.50"
+    },
+    {
+        "country": "Papua New Guinea",
+        "expectancy": "63.10"
+    },
+    {
+        "country": "Paraguay",
+        "expectancy": "73.70"
+    },
+    {
+        "country": "Peru",
+        "expectancy": "700"
+    },
+    {
+        "country": "Philippines",
+        "expectancy": "67.50"
+    },
+    {
+        "country": "Pitcairn",
+        "expectancy": null
+    },
+    {
+        "country": "Poland",
+        "expectancy": "73.20"
+    },
+    {
+        "country": "Portugal",
+        "expectancy": "75.80"
+    },
+    {
+        "country": "Puerto Rico",
+        "expectancy": "75.60"
+    },
+    {
+        "country": "Qatar",
+        "expectancy": "72.40"
+    },
+    {
+        "country": "Reunion",
+        "expectancy": "72.70"
+    },
+    {
+        "country": "Romania",
+        "expectancy": "69.90"
+    },
+    {
+        "country": "Russian Federation",
+        "expectancy": "67.20"
+    },
+    {
+        "country": "Rwanda",
+        "expectancy": "39.30"
+    },
+    {
+        "country": "Saint Helena",
+        "expectancy": "76.80"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "expectancy": "70.70"
+    },
+    {
+        "country": "Saint Lucia",
+        "expectancy": "72.30"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "expectancy": "77.60"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "expectancy": "72.30"
+    },
+    {
+        "country": "Samoa",
+        "expectancy": "69.20"
+    },
+    {
+        "country": "San Marino",
+        "expectancy": "81.10"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "expectancy": "65.30"
+    },
+    {
+        "country": "Saudi Arabia",
+        "expectancy": "67.80"
+    },
+    {
+        "country": "Scotland",
+        "expectancy": null
+    },
+    {
+        "country": "Senegal",
+        "expectancy": "62.20"
+    },
+    {
+        "country": "Serbia",
+        "expectancy": "76.050"
+    },
+    {
+        "country": "Seychelles",
+        "expectancy": "70.40"
+    },
+    {
+        "country": "Sierra Leone",
+        "expectancy": "45.30"
+    },
+    {
+        "country": "Singapore",
+        "expectancy": "80.10"
+    },
+    {
+        "country": "Slovakia",
+        "expectancy": "73.70"
+    },
+    {
+        "country": "Slovenia",
+        "expectancy": "74.90"
+    },
+    {
+        "country": "Solomon Islands",
+        "expectancy": "71.30"
+    },
+    {
+        "country": "Somalia",
+        "expectancy": "46.20"
+    },
+    {
+        "country": "South Africa",
+        "expectancy": "51.10"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "expectancy": null
+    },
+    {
+        "country": "South Korea",
+        "expectancy": "74.40"
+    },
+    {
+        "country": "South Sudan",
+        "expectancy": null
+    },
+    {
+        "country": "Spain",
+        "expectancy": "78.80"
+    },
+    {
+        "country": "Sri Lanka",
+        "expectancy": null
+    },
+    {
+        "country": "Sudan",
+        "expectancy": "56.60"
+    },
+    {
+        "country": "Suriname",
+        "expectancy": "71.40"
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "expectancy": null
+    },
+    {
+        "country": "Swaziland",
+        "expectancy": "40.40"
+    },
+    {
+        "country": "Sweden",
+        "expectancy": "79.60"
+    },
+    {
+        "country": "Switzerland",
+        "expectancy": "79.60"
+    },
+    {
+        "country": "Syria",
+        "expectancy": "68.50"
+    },
+    {
+        "country": "Tajikistan",
+        "expectancy": "64.10"
+    },
+    {
+        "country": "Tanzania",
+        "expectancy": "52.30"
+    },
+    {
+        "country": "Thailand",
+        "expectancy": "68.60"
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "expectancy": null
+    },
+    {
+        "country": "Togo",
+        "expectancy": "54.70"
+    },
+    {
+        "country": "Tokelau",
+        "expectancy": null
+    },
+    {
+        "country": "Tonga",
+        "expectancy": "67.90"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "expectancy": "680"
+    },
+    {
+        "country": "Tunisia",
+        "expectancy": "73.70"
+    },
+    {
+        "country": "Turkey",
+        "expectancy": "710"
+    },
+    {
+        "country": "Turkmenistan",
+        "expectancy": "60.90"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "expectancy": "73.30"
+    },
+    {
+        "country": "Tuvalu",
+        "expectancy": "66.30"
+    },
+    {
+        "country": "Uganda",
+        "expectancy": "42.90"
+    },
+    {
+        "country": "Ukraine",
+        "expectancy": "660"
+    },
+    {
+        "country": "United Arab Emirates",
+        "expectancy": "74.10"
+    },
+    {
+        "country": "United Kingdom",
+        "expectancy": "77.70"
+    },
+    {
+        "country": "United States",
+        "expectancy": "77.10"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "expectancy": null
+    },
+    {
+        "country": "Uruguay",
+        "expectancy": "75.20"
+    },
+    {
+        "country": "Uzbekistan",
+        "expectancy": "63.70"
+    },
+    {
+        "country": "Vanuatu",
+        "expectancy": "60.60"
+    },
+    {
+        "country": "Venezuela",
+        "expectancy": "73.10"
+    },
+    {
+        "country": "Vietnam",
+        "expectancy": "69.30"
+    },
+    {
+        "country": "Virgin Islands, British",
+        "expectancy": null
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "expectancy": null
+    },
+    {
+        "country": "Wales",
+        "expectancy": null
+    },
+    {
+        "country": "Wallis and Futuna",
+        "expectancy": null
+    },
+    {
+        "country": "Western Sahara",
+        "expectancy": "49.80"
+    },
+    {
+        "country": "Yemen",
+        "expectancy": "59.80"
+    },
+    {
+        "country": "Zambia",
+        "expectancy": "37.20"
+    },
+    {
+        "country": "Zimbabwe",
+        "expectancy": "37.80"
+    }
+]

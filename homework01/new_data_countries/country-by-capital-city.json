@@ -1,0 +1,58 @@
+[
+    {
+        "country": "Bahrain",
+        "city": "al-Manama"
+    },
+    {
+        "country": "Benin",
+        "city": "Porto-Novo"
+    },
+    {
+        "country": "Guadeloupe",
+        "city": "Basse-Terre"
+    },
+    {
+        "country": "Haiti",
+        "city": "Port-au-Prince"
+    },
+    {
+        "country": "Marshall Islands",
+        "city": "Dalap-Uliga-Darrit"
+    },
+    {
+        "country": "Martinique",
+        "city": "Fort-de-France"
+    },
+    {
+        "country": "Mauritius",
+        "city": "Port-Louis"
+    },
+    {
+        "country": "Monaco",
+        "city": "Monaco-Ville"
+    },
+    {
+        "country": "Reunion",
+        "city": "Saint-Denis"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "city": "Saint-Pierre"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "city": "Port-of-Spain"
+    },
+    {
+        "country": "Vanuatu",
+        "city": "Port-Vila"
+    },
+    {
+        "country": "Wallis and Futuna",
+        "city": "Mata-Utu"
+    },
+    {
+        "country": "Western Sahara",
+        "city": "El-Aai"
+    }
+]

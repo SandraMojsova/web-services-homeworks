@@ -1,0 +1,970 @@
+[
+    {
+        "country": "Afghanistan",
+        "temperature": 0.21991148575128552
+    },
+    {
+        "country": "Albania",
+        "temperature": 0.19896753472735357
+    },
+    {
+        "country": "Algeria",
+        "temperature": 0.39269908169872414
+    },
+    {
+        "country": "American Samoa",
+        "temperature": 0
+    },
+    {
+        "country": "Andorra",
+        "temperature": 0.13264502315156904
+    },
+    {
+        "country": "Angola",
+        "temperature": 0.37611845380477804
+    },
+    {
+        "country": "Anguilla",
+        "temperature": 0
+    },
+    {
+        "country": "Antarctica",
+        "temperature": 0
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "temperature": 0.4537856055185257
+    },
+    {
+        "country": "Argentina",
+        "temperature": 0.2583087292951608
+    },
+    {
+        "country": "Armenia",
+        "temperature": 0.12479104151759457
+    },
+    {
+        "country": "Aruba",
+        "temperature": 0
+    },
+    {
+        "country": "Australia",
+        "temperature": 0.3778637830567723
+    },
+    {
+        "country": "Austria",
+        "temperature": 0.11082840750163991
+    },
+    {
+        "country": "Azerbaijan",
+        "temperature": 0.20856684561332237
+    },
+    {
+        "country": "Bahamas",
+        "temperature": 0.43371431912059094
+    },
+    {
+        "country": "Bahrain",
+        "temperature": 0.47385689191646047
+    },
+    {
+        "country": "Bangladesh",
+        "temperature": 0.4363323129985824
+    },
+    {
+        "country": "Barbados",
+        "temperature": 0.4537856055185257
+    },
+    {
+        "country": "Belarus",
+        "temperature": 0.10733774899765128
+    },
+    {
+        "country": "Belgium",
+        "temperature": 0.16667894356545848
+    },
+    {
+        "country": "Belize",
+        "temperature": 0.4415683007545654
+    },
+    {
+        "country": "Benin",
+        "temperature": 0.4808382089244378
+    },
+    {
+        "country": "Bermuda",
+        "temperature": 0
+    },
+    {
+        "country": "Bhutan",
+        "temperature": 0.1291543646475804
+    },
+    {
+        "country": "Bolivia",
+        "temperature": 0.37611845380477804
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "temperature": 0.17191493132144145
+    },
+    {
+        "country": "Botswana",
+        "temperature": 0.3752457891787809
+    },
+    {
+        "country": "Bouvet Island",
+        "temperature": 0
+    },
+    {
+        "country": "Brazil",
+        "temperature": 0.4354596483725852
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "temperature": 0
+    },
+    {
+        "country": "Brunei",
+        "temperature": 0.4686209041604775
+    },
+    {
+        "country": "Bulgaria",
+        "temperature": 0.18413223608540177
+    },
+    {
+        "country": "Burkina Faso",
+        "temperature": 0.4930555136883981
+    },
+    {
+        "country": "Burundi",
+        "temperature": 0.3455751918948773
+    },
+    {
+        "country": "Cambodia",
+        "temperature": 0.4677482395344803
+    },
+    {
+        "country": "Cameroon",
+        "temperature": 0.4293509959906051
+    },
+    {
+        "country": "Canada",
+        "temperature": -0.09337511498169662
+    },
+    {
+        "country": "Cape Verde",
+        "temperature": 0.4066617157146788
+    },
+    {
+        "country": "Cayman Islands",
+        "temperature": 0
+    },
+    {
+        "country": "Central African Republic",
+        "temperature": 0.43458698374658805
+    },
+    {
+        "country": "Chad",
+        "temperature": 0.46338491640449453
+    },
+    {
+        "country": "Chile",
+        "temperature": 0.14748032179352083
+    },
+    {
+        "country": "China",
+        "temperature": 0.1213003830136059
+    },
+    {
+        "country": "Christmas Island",
+        "temperature": 0
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "temperature": 0
+    },
+    {
+        "country": "Colombia",
+        "temperature": 0.4276056667386107
+    },
+    {
+        "country": "Comoros",
+        "temperature": 0.4459316238845512
+    },
+    {
+        "country": "Congo",
+        "temperature": 0
+    },
+    {
+        "country": "Cook Islands",
+        "temperature": 0
+    },
+    {
+        "country": "Costa Rica",
+        "temperature": 0.4328416544945937
+    },
+    {
+        "country": "Croatia",
+        "temperature": 0.19024088846738194
+    },
+    {
+        "country": "Cuba",
+        "temperature": 0.43982297150257105
+    },
+    {
+        "country": "Cyprus",
+        "temperature": 0.3220132469929538
+    },
+    {
+        "country": "Czech Republic",
+        "temperature": 0.13177235852557187
+    },
+    {
+        "country": "Denmark",
+        "temperature": 0.1308996938995747
+    },
+    {
+        "country": "Djibouti",
+        "temperature": 0.4886921905584123
+    },
+    {
+        "country": "Dominica",
+        "temperature": 0.3900810878207327
+    },
+    {
+        "country": "Dominican Republic",
+        "temperature": 0.4284783313646079
+    },
+    {
+        "country": "East Timor",
+        "temperature": 0.4406956361285682
+    },
+    {
+        "country": "Ecuador",
+        "temperature": 0.38135444156076104
+    },
+    {
+        "country": "Egypt",
+        "temperature": 0.38571776469074687
+    },
+    {
+        "country": "El Salvador",
+        "temperature": 0.42673300211261356
+    },
+    {
+        "country": "England",
+        "temperature": 0
+    },
+    {
+        "country": "Equatorial Guinea",
+        "temperature": 0.4284783313646079
+    },
+    {
+        "country": "Eritrea",
+        "temperature": 0.44505895925855404
+    },
+    {
+        "country": "Estonia",
+        "temperature": 0.0890117918517108
+    },
+    {
+        "country": "Ethiopia",
+        "temperature": 0.38746309394274114
+    },
+    {
+        "country": "Falkland Islands",
+        "temperature": 0
+    },
+    {
+        "country": "Faroe Islands",
+        "temperature": 0
+    },
+    {
+        "country": "Fiji Islands",
+        "temperature": 0
+    },
+    {
+        "country": "Finland",
+        "temperature": 0.029670597283903602
+    },
+    {
+        "country": "France",
+        "temperature": 0.18675022996339324
+    },
+    {
+        "country": "French Guiana",
+        "temperature": 0
+    },
+    {
+        "country": "French Polynesia",
+        "temperature": 0
+    },
+    {
+        "country": "French Southern territories",
+        "temperature": 0
+    },
+    {
+        "country": "Gabon",
+        "temperature": 0.43720497762457955
+    },
+    {
+        "country": "Gambia",
+        "temperature": 0
+    },
+    {
+        "country": "Georgia",
+        "temperature": 0.10122909661567112
+    },
+    {
+        "country": "Germany",
+        "temperature": 0.14835298641951802
+    },
+    {
+        "country": "Ghana",
+        "temperature": 0.47472955654245763
+    },
+    {
+        "country": "Gibraltar",
+        "temperature": 0
+    },
+    {
+        "country": "Greece",
+        "temperature": 0.26878070480712674
+    },
+    {
+        "country": "Greenland",
+        "temperature": 0
+    },
+    {
+        "country": "Grenada",
+        "temperature": 0.4651302456564888
+    },
+    {
+        "country": "Guadeloupe",
+        "temperature": 0
+    },
+    {
+        "country": "Guam",
+        "temperature": 0
+    },
+    {
+        "country": "Guatemala",
+        "temperature": 0.4092797095926703
+    },
+    {
+        "country": "Guinea",
+        "temperature": 0.4485496177625427
+    },
+    {
+        "country": "Guinea-Bissau",
+        "temperature": 0.46687557490848314
+    },
+    {
+        "country": "Guyana",
+        "temperature": 0.4537856055185257
+    },
+    {
+        "country": "Haiti",
+        "temperature": 0.43458698374658805
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "temperature": 0
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "temperature": 0
+    },
+    {
+        "country": "Honduras",
+        "temperature": 0.41015237421866746
+    },
+    {
+        "country": "Hong Kong",
+        "temperature": 0
+    },
+    {
+        "country": "Hungary",
+        "temperature": 0.17016960206944712
+    },
+    {
+        "country": "Iceland",
+        "temperature": 0.030543261909900768
+    },
+    {
+        "country": "India",
+        "temperature": 0.4127703680966589
+    },
+    {
+        "country": "Indonesia",
+        "temperature": 0.4511676116405342
+    },
+    {
+        "country": "Iran",
+        "temperature": 0.3010692959690218
+    },
+    {
+        "country": "Iraq",
+        "temperature": 0.3735004599267865
+    },
+    {
+        "country": "Ireland",
+        "temperature": 0
+    },
+    {
+        "country": "Israel",
+        "temperature": 0.33510321638291124
+    },
+    {
+        "country": "Italy",
+        "temperature": 0.23474678439323732
+    },
+    {
+        "country": "Ivory Coast",
+        "temperature": 0.45989425790050587
+    },
+    {
+        "country": "Jamaica",
+        "temperature": 0.4354596483725852
+    },
+    {
+        "country": "Japan",
+        "temperature": 0.19460421159736774
+    },
+    {
+        "country": "Jordan",
+        "temperature": 0.3193952531149623
+    },
+    {
+        "country": "Kazakhstan",
+        "temperature": 0
+    },
+    {
+        "country": "Kenya",
+        "temperature": 0.43196898986859655
+    },
+    {
+        "country": "Kiribati",
+        "temperature": 0.4921828490624009
+    },
+    {
+        "country": "Kuwait",
+        "temperature": 0.44244096538056255
+    },
+    {
+        "country": "Kyrgyzstan",
+        "temperature": 0.027052603405912107
+    },
+    {
+        "country": "Laos",
+        "temperature": 0.39793506945470714
+    },
+    {
+        "country": "Latvia",
+        "temperature": 0.09773843811168245
+    },
+    {
+        "country": "Lebanon",
+        "temperature": 0.28623399732707
+    },
+    {
+        "country": "Lesotho",
+        "temperature": 0.20682151636132803
+    },
+    {
+        "country": "Liberia",
+        "temperature": 0.4415683007545654
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "temperature": 0
+    },
+    {
+        "country": "Liechtenstein",
+        "temperature": 0.09861110273767963
+    },
+    {
+        "country": "Lithuania",
+        "temperature": 0.10821041362364843
+    },
+    {
+        "country": "Luxembourg",
+        "temperature": 0.15097098029750952
+    },
+    {
+        "country": "Macao",
+        "temperature": 0
+    },
+    {
+        "country": "North Macedonia",
+        "temperature": 0
+    },
+    {
+        "country": "Madagascar",
+        "temperature": 0.39531707557671564
+    },
+    {
+        "country": "Malawi",
+        "temperature": 0.38222710618675815
+    },
+    {
+        "country": "Malaysia",
+        "temperature": 0.44331363000655966
+    },
+    {
+        "country": "Maldives",
+        "temperature": 0.48258353817643207
+    },
+    {
+        "country": "Mali",
+        "temperature": 0.4930555136883981
+    },
+    {
+        "country": "Malta",
+        "temperature": 0.33510321638291124
+    },
+    {
+        "country": "Marshall Islands",
+        "temperature": 0.4782202150464463
+    },
+    {
+        "country": "Martinique",
+        "temperature": 0
+    },
+    {
+        "country": "Mauritania",
+        "temperature": 0.48258353817643207
+    },
+    {
+        "country": "Mauritius",
+        "temperature": 0.3909537524467298
+    },
+    {
+        "country": "Mayotte",
+        "temperature": 0
+    },
+    {
+        "country": "Mexico",
+        "temperature": 0.3665191429188092
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "temperature": 0
+    },
+    {
+        "country": "Moldova",
+        "temperature": 0.16493361431346412
+    },
+    {
+        "country": "Monaco",
+        "temperature": 0.23649211364523168
+    },
+    {
+        "country": "Mongolia",
+        "temperature": -0.012217304763960306
+    },
+    {
+        "country": "Montserrat",
+        "temperature": 0
+    },
+    {
+        "country": "Morocco",
+        "temperature": 0.2984513020910304
+    },
+    {
+        "country": "Mozambique",
+        "temperature": 0.41538836197465046
+    },
+    {
+        "country": "Myanmar",
+        "temperature": 0.22776546738526002
+    },
+    {
+        "country": "Namibia",
+        "temperature": 0.34819318577286873
+    },
+    {
+        "country": "Nauru",
+        "temperature": 0
+    },
+    {
+        "country": "Nepal",
+        "temperature": 0.1413716694115407
+    },
+    {
+        "country": "Netherlands",
+        "temperature": 0
+    },
+    {
+        "country": "Netherlands Antilles",
+        "temperature": 0
+    },
+    {
+        "country": "New Caledonia",
+        "temperature": 0
+    },
+    {
+        "country": "New Zealand",
+        "temperature": 0.18413223608540177
+    },
+    {
+        "country": "Nicaragua",
+        "temperature": 0.43458698374658805
+    },
+    {
+        "country": "Niger",
+        "temperature": 0.47385689191646047
+    },
+    {
+        "country": "Nigeria",
+        "temperature": 0.4677482395344803
+    },
+    {
+        "country": "Niue",
+        "temperature": 0
+    },
+    {
+        "country": "Norfolk Island",
+        "temperature": 0
+    },
+    {
+        "country": "North Korea",
+        "temperature": 0.09948376736367678
+    },
+    {
+        "country": "Northern Ireland",
+        "temperature": 0
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "temperature": 0
+    },
+    {
+        "country": "Norway",
+        "temperature": 0.026179938779914945
+    },
+    {
+        "country": "Oman",
+        "temperature": 0.4468042885105484
+    },
+    {
+        "country": "Pakistan",
+        "temperature": 0.35255650890285456
+    },
+    {
+        "country": "Palau",
+        "temperature": 0.48171087355043496
+    },
+    {
+        "country": "Palestine",
+        "temperature": 0
+    },
+    {
+        "country": "Panama",
+        "temperature": 0.44331363000655966
+    },
+    {
+        "country": "Papua New Guinea",
+        "temperature": 0.4406956361285682
+    },
+    {
+        "country": "Paraguay",
+        "temperature": 0.4110250388446646
+    },
+    {
+        "country": "Peru",
+        "temperature": 0.3420845333908886
+    },
+    {
+        "country": "Philippines",
+        "temperature": 0.4511676116405342
+    },
+    {
+        "country": "Pitcairn",
+        "temperature": 0
+    },
+    {
+        "country": "Poland",
+        "temperature": 0.13700834628155487
+    },
+    {
+        "country": "Portugal",
+        "temperature": 0.2644173816771409
+    },
+    {
+        "country": "Puerto Rico",
+        "temperature": 0
+    },
+    {
+        "country": "Qatar",
+        "temperature": 0.47385689191646047
+    },
+    {
+        "country": "Reunion",
+        "temperature": 0
+    },
+    {
+        "country": "Romania",
+        "temperature": 0.15358897417550102
+    },
+    {
+        "country": "Russian Federation",
+        "temperature": 0
+    },
+    {
+        "country": "Rwanda",
+        "temperature": 0.31154127148098787
+    },
+    {
+        "country": "Saint Helena",
+        "temperature": 0
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "temperature": 0.4276056667386107
+    },
+    {
+        "country": "Saint Lucia",
+        "temperature": 0.44505895925855404
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "temperature": 0
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "temperature": 0.4677482395344803
+    },
+    {
+        "country": "Samoa",
+        "temperature": 0.46600291028248597
+    },
+    {
+        "country": "San Marino",
+        "temperature": 0.20682151636132803
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "temperature": 0.4145156973486533
+    },
+    {
+        "country": "Saudi Arabia",
+        "temperature": 0.4302236606166022
+    },
+    {
+        "country": "Scotland",
+        "temperature": 0
+    },
+    {
+        "country": "Senegal",
+        "temperature": 0.4860741966804208
+    },
+    {
+        "country": "Seychelles",
+        "temperature": 0.47385689191646047
+    },
+    {
+        "country": "Sierra Leone",
+        "temperature": 0.45465827014452287
+    },
+    {
+        "country": "Singapore",
+        "temperature": 0.46163958715250014
+    },
+    {
+        "country": "Slovakia",
+        "temperature": 0.11868238913561441
+    },
+    {
+        "country": "Slovenia",
+        "temperature": 0.15533430342749532
+    },
+    {
+        "country": "Solomon Islands",
+        "temperature": 0.4476769531365455
+    },
+    {
+        "country": "Somalia",
+        "temperature": 0.47211156266446613
+    },
+    {
+        "country": "South Africa",
+        "temperature": 0.3097959422289935
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "temperature": 0
+    },
+    {
+        "country": "South Korea",
+        "temperature": 0.2007128639793479
+    },
+    {
+        "country": "South Sudan",
+        "temperature": 0
+    },
+    {
+        "country": "Spain",
+        "temperature": 0.23212879051524585
+    },
+    {
+        "country": "Sri Lanka",
+        "temperature": 0
+    },
+    {
+        "country": "Sudan",
+        "temperature": 0.46949356878647464
+    },
+    {
+        "country": "Suriname",
+        "temperature": 0.4485496177625427
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "temperature": 0
+    },
+    {
+        "country": "Swaziland",
+        "temperature": 0.3735004599267865
+    },
+    {
+        "country": "Sweden",
+        "temperature": 0.03665191429188092
+    },
+    {
+        "country": "Switzerland",
+        "temperature": 0.09599310885968812
+    },
+    {
+        "country": "Syria",
+        "temperature": 0.3097959422289935
+    },
+    {
+        "country": "Tajikistan",
+        "temperature": 0.03490658503988659
+    },
+    {
+        "country": "Tanzania",
+        "temperature": 0.3900810878207327
+    },
+    {
+        "country": "Thailand",
+        "temperature": 0.4590215932745087
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "temperature": 0
+    },
+    {
+        "country": "Togo",
+        "temperature": 0.47385689191646047
+    },
+    {
+        "country": "Tokelau",
+        "temperature": 0
+    },
+    {
+        "country": "Tonga",
+        "temperature": 0.4406956361285682
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "temperature": 0.4494222823885399
+    },
+    {
+        "country": "Tunisia",
+        "temperature": 0.33510321638291124
+    },
+    {
+        "country": "Turkey",
+        "temperature": 0.19373154697137057
+    },
+    {
+        "country": "Turkmenistan",
+        "temperature": 0.26354471705114374
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "temperature": 0
+    },
+    {
+        "country": "Tuvalu",
+        "temperature": 0.4886921905584123
+    },
+    {
+        "country": "Uganda",
+        "temperature": 0.39793506945470714
+    },
+    {
+        "country": "Ukraine",
+        "temperature": 0.14486232791552936
+    },
+    {
+        "country": "United Arab Emirates",
+        "temperature": 0.47123889803846897
+    },
+    {
+        "country": "United Kingdom",
+        "temperature": 0.14748032179352083
+    },
+    {
+        "country": "United States",
+        "temperature": 0.1492256510455152
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "temperature": 0
+    },
+    {
+        "country": "Uruguay",
+        "temperature": 0.3063052837250049
+    },
+    {
+        "country": "Uzbekistan",
+        "temperature": 0.21031217486531673
+    },
+    {
+        "country": "Vanuatu",
+        "temperature": 0.4180063558526419
+    },
+    {
+        "country": "Venezuela",
+        "temperature": 0.44244096538056255
+    },
+    {
+        "country": "Vietnam",
+        "temperature": 0.42673300211261356
+    },
+    {
+        "country": "Virgin Islands, British",
+        "temperature": 0
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "temperature": 0
+    },
+    {
+        "country": "Wales",
+        "temperature": 0
+    },
+    {
+        "country": "Wallis and Futuna",
+        "temperature": 0
+    },
+    {
+        "country": "Western Sahara",
+        "temperature": 0
+    },
+    {
+        "country": "Yemen",
+        "temperature": 0.4162610266006476
+    },
+    {
+        "country": "Zambia",
+        "temperature": 0.3735004599267865
+    },
+    {
+        "country": "Zimbabwe",
+        "temperature": 0.3665191429188092
+    }
+]

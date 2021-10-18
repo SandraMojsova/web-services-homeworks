@@ -1,0 +1,62 @@
+[
+    {
+        "country": "Albania",
+        "barcode": "530"
+    },
+    {
+        "country": "Cyprus",
+        "barcode": "529"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "570 – 579"
+    },
+    {
+        "country": "Faroe Islands",
+        "barcode": "570 – 579"
+    },
+    {
+        "country": "Greece",
+        "barcode": "520 – 521"
+    },
+    {
+        "country": "Greenland",
+        "barcode": "570 – 579"
+    },
+    {
+        "country": "Hungary",
+        "barcode": "599"
+    },
+    {
+        "country": "Iceland",
+        "barcode": "569"
+    },
+    {
+        "country": "Lebanon",
+        "barcode": "528"
+    },
+    {
+        "country": "North Macedonia",
+        "barcode": "531"
+    },
+    {
+        "country": "Malta",
+        "barcode": "535"
+    },
+    {
+        "country": "Poland",
+        "barcode": "590"
+    },
+    {
+        "country": "Portugal",
+        "barcode": "560"
+    },
+    {
+        "country": "Romania",
+        "barcode": "594"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "500 – 509"
+    }
+]
