@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "brand": "Mercedes-Benz",
+        "model": "c200",
+        "year": 2008,
+        "price": 8000,
+        "color": "metallic gray"
+    },
+    {
+        "id": 3,
+        "brand": "Ford",
+        "model": "Fusion",
+        "year": 2007,
+        "price": 5600,
+        "color": "white"
+    },
+    {
+        "id": 4,
+        "brand": "Opel",
+        "model": "Meriva",
+        "year": 2005,
+        "price": 3700,
+        "color": "dark green"
+    },
+    {
+        "id": 5,
+        "brand": "Kia",
+        "model": "Sportage",
+        "year": 2017,
+        "price": 12000,
+        "color": "dark grey"
+    },
+    {
+        "id": 6,
+        "brand": "Audi",
+        "model": "A4",
+        "year": 2006,
+        "price": 6000,
+        "color": "black"
+    }
+]

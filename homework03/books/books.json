@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "A Brief History of Time",
+        "pages": 256,
+        "author": "Stephen Hawking",
+        "genre": "cosmology",
+        "publisher": "Bantam Dell Publishing Group",
+        "publication_date": 1988
+    },
+    {
+        "id": 2,
+        "title": "The Theory of Everything: The Origin and Fate of the Universe",
+        "pages": 132,
+        "author": "Stephen Hawking",
+        "genre": "science",
+        "publisher": "Jaico Publishing House",
+        "publication_date": 2008
+    },
+    {
+        "id": 3,
+        "title": "Brief Answers to the Big Questions",
+        "pages": 256,
+        "author": "Stephen Hawking",
+        "genre": "science",
+        "publisher": "Hodder & Stoughton (Hardcover) Bantam Books (Paperback)",
+        "publication_date": 2018
+    }
+]
