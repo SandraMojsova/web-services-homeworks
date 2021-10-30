@@ -1,4 +1,20 @@
 const cars = require('../pkg/cars/mongo');
+const validate = require('../pkg/cars/validator');
+
+const create = async (req, res) => {
+    try {
+        await validate(req.body);
+    } catch (err) {
+        return res.status(400).send(err);
+    }
+    try {
+        let car = await cars.create(req.body);
+        res.status(201).send(car);
+    }
+    catch (err) {
+        res.status(500).send(err);
+    }
+};
 
 const getAll = async (req, res) => {
     try {
@@ -8,21 +24,6 @@ const getAll = async (req, res) => {
     catch (err) {
         console.log(err);
         res.status(500).send(err);
-    }
-};
-
-const create = async (req, res) => {
-    try {
-        let condition = !req.body.brand || !req.body.model ||
-            !req.body.year || !req.body.price || !req.body.color;
-        if (condition) {
-            return res.status(400).send('Bad request');
-        }
-        let car = await cars.create(req.body);
-        res.status(201).send(car);
-    }
-    catch (err) {
-        res.status(500).send(err)
     }
 };
 
@@ -41,11 +42,11 @@ const getOne = async (req, res) => {
 
 const update = async (req, res) => {
     try {
-        let condition = !req.body.brand || !req.body.model ||
-            !req.body.year || !req.body.price || !req.body.color;
-        if (condition) {
-            return res.status(400).send('Bad request');
-        }
+        await validate(req.body);
+    } catch (err) {
+        return res.status(400).send(err);
+    }
+    try {
         await cars.update(req.params.id, req.body);
         res.status(204).send();
     }
@@ -56,11 +57,11 @@ const update = async (req, res) => {
 
 const partialUpdate = async (req, res) => {
     try {
-        let condition = req.body.brand || req.body.model ||
-            req.body.year || req.body.price || req.body.color;
-        if (!condition) {
-            return res.status(400).send('Bad request');
-        }
+        await validate(req.body, 'UPDATE');
+    } catch (err) {
+        return res.status(400).send(err);
+    }
+    try {
         await cars.partialUpdate(req.params.id, req.body);
         res.status(204).send();
     } catch (err) {

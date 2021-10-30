@@ -1,22 +1,14 @@
 [
     {
-        "id": 0,
-        "first_name": "Sandra",
-        "gpa": 10
-    },
-    {
         "id": 1,
-        "first_name": "Pavel",
-        "gpa": 9.8
+        "first_name": "Sandra",
+        "last_name": "Mojsova",
+        "gpa": 10
     },
     {
         "id": 2,
         "first_name": "Branko",
-        "gpa": 9.2
-    },
-    {
-        "id": 3,
-        "first_name": "Mirjana",
-        "gpa": 8.9
+        "last_name": "Mojsov",
+        "gpa": 9.7
     }
 ]

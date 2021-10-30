@@ -1,12 +1,13 @@
 const books = require('../pkg/books/mongo');
+const validate = require('../pkg/books/validator');
 
 const create = async (req, res) => {
     try {
-        let condition = !req.body.title || !req.body.pages || !req.body.author
-            || !req.body.genre || !req.body.publisher || !req.body.publication_date;
-        if (condition) {
-            return res.status(400).send('Bad request');
-        }
+        await validate(req.body);
+    } catch (err) {
+        return res.status(400).send(err);
+    }
+    try {
         let book = await books.create(req.body);
         res.status(201).send(book);
     } catch (err) {
@@ -38,11 +39,11 @@ const getOne = async (req, res) => {
 
 const update = async (req, res) => {
     try {
-        let condition = !req.body.title || !req.body.pages || !req.body.author
-            || !req.body.genre || !req.body.publisher || !req.body.publication_date;
-        if (condition) {
-            return res.status(400).send('Bad request');
-        }
+        await validate(req.body);
+    } catch (err) {
+        return res.status(400).send('Bad request');
+    }
+    try {
         await books.update(req.params.id, req.body);
         res.status(204).send();
 
@@ -53,15 +54,11 @@ const update = async (req, res) => {
 
 const partialUpdate = async (req, res) => {
     try {
-        let condition = req.body.title
-            || req.body.pages
-            || req.body.author
-            || req.body.genre
-            || req.body.publisher
-            || req.body.publication_date;
-        if (!condition) {
-            return res.status(400).send('Bad request');
-        }
+        await validate(req.body, 'UPDATE');
+    } catch (err) {
+        return res.status(400).send('Bad request');
+    }
+    try {
         await books.partialUpdate(req.params.id, req.body);
         res.status(204).send();
     } catch (err) {

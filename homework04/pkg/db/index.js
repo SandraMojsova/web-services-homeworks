@@ -5,6 +5,7 @@ let password = '';
 let dbname = 'db';
 let host = '';
 
+
 let dsn = `mongodb+srv://${username}:${password}@${host}/${dbname}?retryWrites=true&w=majority`;
 
 mongoose.connect(
