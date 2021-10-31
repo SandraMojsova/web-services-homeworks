@@ -1,9 +1,9 @@
 const mongoose = require('mongoose');
 
 let username = 'dev';
-let password = 'E0Gw7E1hFGT2vds8';
+let password = '';
 let db = 'usersdb';
-let host = 'nodetuts.5luc2.mongodb.net';
+let host = '';
 
 
 let dsn = `mongodb+srv://${username}:${password}@${host}/${db}?retryWrites=true&w=majority`;
