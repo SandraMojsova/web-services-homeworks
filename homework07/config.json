@@ -1,0 +1,18 @@
+{
+    "security": {
+        "secret": "secretpassword",
+        "algorithms": [
+            "HS256"
+        ]
+    },
+    "server": {
+        "port": 9000,
+        "host": "localhost"
+    },
+    "database": {
+        "username": "dev",
+        "password": " ",
+        "hostname": " ",
+        "dbname": "c07db"
+    }
+}
